@@ -1,0 +1,20 @@
+#fiddlesticks{
+    font-size:medium;
+    float:right;
+    margin-right: 20px;
+}
+
+#spanscore{
+    margin-left:20px;
+    float:left;
+    font-size: medium;
+}
+
+body{
+    background-color: rgb(175, 246, 246);
+
+}
+
+#show_sketch{
+    float:right;
+}
